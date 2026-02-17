@@ -3,8 +3,6 @@
 
 A comprehensive, interactive practice test for Operating Systems concepts, featuring 100 questions in both English and Arabic. Built with HTML, CSS, and JavaScript – no external dependencies.
 
-https://via.placeholder.com/800x400/152d3c/ecf9ff?text=OS+Practice+Exam+Preview
-
 ✨ Features
 
 · ✅ 100 unique questions covering all major OS topics
