@@ -42,15 +42,6 @@ No installation, build process, or internet connection required.
 · CSS3 – custom properties, flexbox, responsive design
 · Vanilla JavaScript – no frameworks or libraries
 
-📁 File Structure
-
-```
-operating-systems-exam/
-├── index.html          # Main application (includes all CSS/JS)
-├── README.md           # This file
-└── LICENSE             # MIT License
-```
-
 🌍 Language Support
 
 · English – original questions and explanations
@@ -86,5 +77,9 @@ All stats update instantly as you answer.
 This project is licensed under the MIT License – see the LICENSE file for details.
 
 ---
+🙏 Acknowledgements
 
+· Questions compiled from standard Operating Systems curriculum
+· Inspired by the need for a clean, accessible practice tool
+· Built with ❤️ for students and self-learners
 
